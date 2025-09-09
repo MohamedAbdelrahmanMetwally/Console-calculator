@@ -47,7 +47,10 @@ Enter two numbers separated by space.
 The result will be displayed.
 
 ---
+## screen shots
+<img width="735" height="276" alt="image" src="https://github.com/user-attachments/assets/b0378644-532e-44f0-911f-bed6a3eba6d2" />
 
+---
 
 ##  🖥️ Example
 ```
@@ -69,6 +72,8 @@ Add more operations (Power, Square root, Modulus).
 Add a loop so the calculator can run multiple times until exit.
 
 Input validation for non-numeric entries.
+
+Making the function seperated in .h file
 
 
 
