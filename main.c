@@ -22,6 +22,8 @@ float divide(int a,int b)
 }
 int main()
 {
+    while(1)
+    {
     printf("1-addition\n2-subtraction\n3-multiplication\n4-division");
     printf("\nEnter the number of operation you want : ");
     int number;
@@ -45,6 +47,7 @@ int main()
             break;
         default:
             printf("Invalid choice!\n");
+    }
     }
     return 0;
 }
